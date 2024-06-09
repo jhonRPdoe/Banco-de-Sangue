@@ -42,7 +42,7 @@ Também deverá haver pelo menos um funcionário com acesso de administrador, es
 ![](./screenshots/readme-images/telaMenuPrincipalAcessoEspecial.PNG)
 
 ### Menu Principal (Acesso Comum)
-![](./screenshots/readme-images/telaMenuPrincipalAcessoComum.PNG)
+![](./screenshots/readme-images/TelaMenuPrincipalAcessoComum.PNG)
 
 ### Banco de Sangue (consulta)
 ![](./screenshots/readme-images/telaBancoSangue.PNG)
