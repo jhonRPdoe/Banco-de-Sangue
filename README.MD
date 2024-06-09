@@ -33,7 +33,7 @@ Também deverá haver pelo menos um funcionário com acesso de administrador, es
 ## Screenshots
 
 ### Tela de login
-![](./screenshots/readme-images/readme-images/telaLogin.png)
+![](./screenshots/readme-images/telaLogin.PNG)
 
 ### Menu Principal (Acesso de Administrador)
 ![](./screenshots/readme-images/telaMenuPrincipal.png)
