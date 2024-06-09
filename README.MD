@@ -36,31 +36,31 @@ Também deverá haver pelo menos um funcionário com acesso de administrador, es
 ![](./screenshots/readme-images/telaLogin.PNG)
 
 ### Menu Principal (Acesso de Administrador)
-![](./screenshots/readme-images/telaMenuPrincipal.png)
+![](./screenshots/readme-images/telaMenuPrincipal.PNG)
 
 ### Menu Principal (Acesso Especial)
-![](./screenshots/readme-images/telaMenuPrincipalAcessoEspecial.png)
+![](./screenshots/readme-images/telaMenuPrincipalAcessoEspecial.PNG)
 
 ### Menu Principal (Acesso Comum)
-![](./screenshots/readme-images/telaMenuPrincipalAcessoComum.png)
+![](./screenshots/readme-images/telaMenuPrincipalAcessoComum.PNG)
 
 ### Banco de Sangue (consulta)
-![](./screenshots/readme-images/telaBancoSangue.png)
+![](./screenshots/readme-images/telaBancoSangue.PNG)
 
 ### Tela de cadastro de doações (para o banco)
-![](./screenshots/readme-images/telaCadastroDoacao.png)
+![](./screenshots/readme-images/telaCadastroDoacao.PNG)
 
 ### Tela de cadastro de doações para pacientes (do banco para o paciente)
-![](./screenshots/readme-images/telaDoarPaciente.png)
+![](./screenshots/readme-images/telaDoarPaciente.PNG)
 
 ### Tela de consulta de funcionários cadastros no sistema e seus privilégios
-![](./screenshots/readme-images/telaFuncionario.png)
+![](./screenshots/readme-images/telaFuncionario.PNG)
 
 ### Tela para cadastro de funcionário
-![](./screenshots/readme-images/telaCadastrarFuncionario.png)
+![](./screenshots/readme-images/telaCadastrarFuncionario.PNG)
 
 ### Tela para alteração de informações do funcionário
-![](./screenshots/readme-images/telaAlterarFuncionario.png)
+![](./screenshots/readme-images/telaAlterarFuncionario.PNG)
 
 
 ## Meu processo
